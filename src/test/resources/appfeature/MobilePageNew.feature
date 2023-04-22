@@ -15,7 +15,7 @@ And user note the value of mobile on details page
 Then validate if both prices are same
 
 
-Scenario Outline: Cart functionality
+Scenario: Cart functionality
 Given user is on Home Page
 When user clicks on "Mobile"
 When user adds sony xperia mobile to cart
